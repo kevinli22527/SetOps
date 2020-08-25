@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/UT Austin/1st Year Classes/Software I (C,C++)/Project5_Set/Set.h
+
+/cygdrive/c/UT Austin/1st Year Classes/Software I (C,C++)/Project5_Set/main.cpp
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+assert.h
+-
+chrono
+-
+Set.h
+/cygdrive/c/UT Austin/1st Year Classes/Software I (C,C++)/Project5_Set/Set.h
+
